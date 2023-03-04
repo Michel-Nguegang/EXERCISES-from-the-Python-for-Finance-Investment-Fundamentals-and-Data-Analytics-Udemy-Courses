@@ -8,4 +8,4 @@ This repository contains all of the personal notes and exercises and projects of
 - Data Analytics and Visualization with Matplotlib , Data Analysis with Python, Data Visualization with Python, Portfolio Analysis, Markowitz Portfolio Optimization, Monte Carlo Simulations as a decision making tool, Creating stock charts from scratch
 Univariate and Multivariate regression analysis with Technical Analysis.
 
-Thank you!
+Thank you !
